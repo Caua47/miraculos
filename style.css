@@ -1,0 +1,18 @@
+body {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 7%, rgba(223, 0, 49, 1) 40%, rgba(1, 124, 21, 1) 100%);
+}
+
+#titulo {
+    color: #000000;
+    text-align: center;
+}
+
+.Marinette{
+    color: #002661;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
