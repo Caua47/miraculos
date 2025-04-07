@@ -1,6 +1,6 @@
 body {
-    background: rgb(0, 0, 0);
-    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 7%, rgba(223, 0, 49, 1) 40%, rgba(1, 124, 21, 1) 100%);
+    background-image: url(https://m.media-amazon.com/images/I/91G85qo4zML._AC_UF894,1000_QL80_.jpg);
+    background-position: center;
 }
 #titulo {
     color: #000000;
@@ -14,18 +14,24 @@ body {
     text-align: center;
     background-color: #ff0000;
 }
-.Joaninha{
-    background: rgb(0,32,134);
-    background: radial-gradient(circle, rgba(0,32,134,1) 0%, rgba(255,0,0,1) 58%);
+.amigos{
+        color: #000000;
+    text-align: center;
+    background-color: #ff0000;
 }
-#Ladybug{
+.Joaninha{
+    background-color: #ff0000;
+}
+#Lady{
     text-align: center;
 }
 .catnoir{
     display: block;
     margin: 0%;
 }
-
+h2{
+    text-align: center;
+}
 img{
     display: block;
     margin: auto;
